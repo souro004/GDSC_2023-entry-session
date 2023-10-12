@@ -4,7 +4,7 @@ The task at hand is based on the 'Git and GitHub Session' organised on the 12th 
 Your task is quite simple, add your name, branch, and year of study. You are to submit the task only by applying GIT. For any queries, refer to any tutorial available or contact Tirthankar Nath. Upon completion of the task, submit the necessary details to the form link given
 https://forms.gle/UPWDXSmjQePMeM6q7 
 
-Tirthankar Nath
+Tirthankar Nath 
 3rd Year, ETE
 
 Follow this pattern from the next line and leave a gap after each submission,
