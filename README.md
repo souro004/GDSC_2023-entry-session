@@ -9,3 +9,5 @@ Tirthankar Nath
 
 Follow this pattern from the next line and leave a gap after each submission,
 Add this to the txt file
+
+Hint : Fork -->Edit-->Commit-->Create pull request

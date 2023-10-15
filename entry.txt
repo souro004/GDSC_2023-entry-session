@@ -5,5 +5,3 @@ Tirthankar Nath
 
 Bidyasagar Hazarika
 3rd sem, ETE
-
-Fork->Edit->Commit->Create pull request.
